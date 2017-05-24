@@ -1,0 +1,15 @@
+1. Qual a diferença entre JRE e JDK?
+JDK, É o conjunto de ferramentas necessárias para realizar o desenvolvimento de aplicações java e inclui a JRE e ferramentas de programação. JRE, É composto pela JVM e pela biblioteca de classes Java utilizadas para execução de aplicações java, estas bibliotecas são chamadas de APIs Java.
+
+2. Quais são os componentes da JDK?
+javac – compilador
+jar – empacotador
+javadoc – ferramenta para geração de documentação
+
+7. Erro: o método main não foi encontrado na classe exercicio03.Exercicio03; defina o método main como:
+   public static void main(String[] args)
+ou uma classe de aplicativo JavaFX deve expandir javafx.application.Application
+
+8. IDE não deixa compilar.
+
+9. Nenhum gerou exeção durante a execução. O exercicio 7 não compila, e o exericio numero 8, a ide não deixa caracter especial em nome da método.
